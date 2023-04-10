@@ -1,2 +1,2 @@
-# Web-personal-page
+# Personal-Web-page
 Web personal donde se puede encontrar toda la información sobre mí.
